@@ -1,7 +1,7 @@
 # Global settings - most REQUIRED
 time_framework = [2020, 2025, 2030, 2035, 2040, 2045, 2050]
 foresight = 5   # Has to be a multiple of the minimum separation between the years in time framework
-regions = ["Eastern", "Western"]
+regions = ["Central", "Eastern", "Western", "Northwest", "North", "Northeast", "BajaCalif", "BajaCalifSouth", "Peninsular"]
 interest_rate = 0.1
 interpolation_mode = 'Active'
 log_level = 'info'
@@ -134,6 +134,14 @@ interaction = 'transfer'
 type = 'presets'
 priority = 0
 consumption_path= "{path}/technodata/preset/*Consumption.csv"
+
+
+#[sectors.residential_presets]
+#type = 'presets'
+#priority = 0
+#timeslice_shares_path ='{path}/technodata/preset/TimesliceSharepreset.csv'
+#macrodrivers_path ='{path}/technodata/preset/Macrodrivers.csv'
+#regression_path ='{path}/technodata/preset/regressionparameters.csv'
 
 
 [timeslices]
