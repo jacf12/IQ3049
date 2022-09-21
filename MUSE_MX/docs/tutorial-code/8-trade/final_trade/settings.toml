@@ -96,9 +96,9 @@ quantity = "capacity"
 sink = 'csv'
 overwrite = true
 
-[[sectors.power.interactions]] 
-net = 'new_to_retro'
-interaction = 'transfer'
+#[[sectors.power.interactions]] 
+#net = 'new_to_retro'
+#interaction = 'transfer'
 
 
 [sectors.gas]
