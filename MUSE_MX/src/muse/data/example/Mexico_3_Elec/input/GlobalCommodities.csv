@@ -13,4 +13,5 @@ uranium,Energy,uranium,0,1,PJ
 solar,Energy,solar,0,1,PJ
 coal,Energy,coal,80,1,PJ
 diesel,Energy,diesel,80,1,PJ
+hydrogen,Energy,hydrogen,0,1,PJ
 e_demand,Energy,e_demand,0,1,PJ
