@@ -1,4 +1,0 @@
-ProcessName,RegionName,Time,Level,electricity,gas,heat,CO2f,wind,cook,biomass,water,uranium,sun,coal,diesel,e_demand
-Unit,-,Year,-,PJ/PJ,PJ/PJ,PJ/PJ,kt/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ,PJ/PJ
-gassupply1,Eastern,2020,fixed,0,1,0,0,0,0,0,0,0,0,0,0,0
-gassupply1,Western,2020,fixed,0,1,0,0,0,0,0,0,0,0,0,0,0

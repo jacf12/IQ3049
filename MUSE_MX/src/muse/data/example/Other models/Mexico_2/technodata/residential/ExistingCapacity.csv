@@ -1,0 +1,5 @@
+ProcessName,RegionName,Unit,2020,2025,2030,2035,2040,2045,2050
+e_tec,Eastern,PJ/y,100,70,50,0,0,0,0
+e_tec2,Eastern,PJ/y,120,100,40,0,0,0,0
+e_tec,Western,PJ/y,100,70,50,0,0,0,0
+e_tec2,Western,PJ/y,120,100,40,0,0,0,0
