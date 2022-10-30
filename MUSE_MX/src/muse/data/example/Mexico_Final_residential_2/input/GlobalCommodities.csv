@@ -68,3 +68,9 @@ bioethanol,Energy,bioethanol,0,1,PJ
 hydro,Energy,hydro,0,1,PJ
 tidal,Energy,tidal,0,1,PJ
 wave,Energy,wave,0,1,PJ
+light_com,Service,light_com,0,1,PJ/PJ
+heating_com,Service,heating_com,0,1,PJ/PJ
+cool_com,Service,cool_com,0,1,PJ/PJ
+hwater_com,Service,hwater_com,0,1,PJ/PJ
+cook_com,Service,cook_com,0,1,PJ/PJ
+appl_com,Service,appl_com,0,1,PJ/PJ
