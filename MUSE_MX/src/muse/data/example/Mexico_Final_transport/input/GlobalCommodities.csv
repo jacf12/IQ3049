@@ -68,3 +68,12 @@ bioethanol,Energy,bioethanol,0,1,PJ
 hydro,Energy,hydro,0,1,PJ
 tidal,Energy,tidal,0,1,PJ
 wave,Energy,wave,0,1,PJ
+cng,Energy,cng,0,1,PJ
+hardcoal,Energy,hardcoal,0,1,PJ
+hfo,Energy,hfo,0,1,PJ
+CO2r,Energy,CO2r,0,1,PJ
+CO2c,Energy,CO2c,0,1,PJ
+CO2s,Energy,CO2s,0,1,PJ
+CH4,Energy,CH4,0,1,PJ
+N2O,Energy,N2O,0,1,PJ
+F-gases,Energy,F-gases,0,1,PJ

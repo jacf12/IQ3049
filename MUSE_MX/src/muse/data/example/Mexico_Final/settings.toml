@@ -252,10 +252,6 @@ net = 'new_to_retro'
 interaction = 'transfer'
 
 
-
-
-
-
 [sectors.power]
 type = 'default'
 priority = 6
@@ -279,10 +275,6 @@ quantity = "capacity"
 sink = 'csv'
 overwrite = true
 index = false
-
-#[[sectors.power.interactions]] 
-#net = 'new_to_retro'
-#interaction = 'transfer'
 
 
 
@@ -339,19 +331,37 @@ index = false
 net = 'new_to_retro'
 interaction = 'transfer'
 
+[sectors.oil]
+type = 'default'
+priority = 9
+dispatch_production = 'share'
+
+technodata = '{path}/technodata/oil/Technodata.csv'
+commodities_in = '{path}/technodata/oil/CommIn.csv'
+commodities_out = '{path}/technodata/oil/CommOut.csv'
+
+[sectors.oil.subsectors.retro_and_new]
+agents = '{path}/technodata/Agents.csv'
+existing_capacity = '{path}/technodata/oil/ExistingCapacity.csv'
+lpsolver = "scipy"
+
+
+[[sectors.oil.outputs]]
+filename = '{cwd}/{default_output_dir}/{Sector}/{Quantity}/{year}{suffix}'
+quantity = "capacity"
+sink = 'csv'
+overwrite = true
+index = false
+
+[[sectors.oil.interactions]] 
+net = 'new_to_retro'
+interaction = 'transfer'
 
 [sectors.demand_presets]
 type = 'presets'
 priority = 0
 consumption_path= "{path}/technodata/preset/*Consumption.csv"
 
-
-#[sectors.residential_presets]
-#type = 'presets'
-#priority = 0
-#timeslice_shares_path ='{path}/technodata/preset/TimesliceSharepreset.csv'
-#macrodrivers_path ='{path}/technodata/preset/Macrodrivers.csv'
-#regression_path ='{path}/technodata/preset/regressionparameters.csv'
 
 
 [timeslices]

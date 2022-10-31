@@ -4,7 +4,7 @@ timeslice,commodity,asset,year,technology,installed,month,day,hour,supply
 0,cement,1,2020,indr_tec,2020,all-year,all-week,night,1.16670000000
 0,cement,1,2025,indr_tec,2020,all-year,all-week,night,1.26390000000
 0,cement,2,2020,indr_tec,2020,all-year,all-week,night,13.93260000000
-0,cement,2,2025,indr_tec,2020,all-year,all-week,night,22.56940000000
+0,cement,2,2025,indr_tec,2020,all-year,all-week,night,64.40280000000
 0,cement,3,2020,indr_tec,2020,all-year,all-week,night,41.33330000000
 0,cement,3,2025,indr_tec,2020,all-year,all-week,night,40.66960000000
 0,cement,4,2020,indr_tec,2020,all-year,all-week,night,10.83330000000
@@ -22,7 +22,7 @@ timeslice,commodity,asset,year,technology,installed,month,day,hour,supply
 0,cement,10,2020,indr_tec2,2020,all-year,all-week,night,1.13690000000
 0,cement,10,2025,indr_tec2,2020,all-year,all-week,night,0.85270000000
 0,cement,11,2020,indr_tec2,2020,all-year,all-week,night,6.96630000000
-0,cement,11,2025,indr_tec2,2020,all-year,all-week,night,22.56940000000
+0,cement,11,2025,indr_tec2,2020,all-year,all-week,night,64.40280000000
 0,cement,12,2020,indr_tec2,2020,all-year,all-week,night,27.11310000000
 0,cement,12,2025,indr_tec2,2020,all-year,all-week,night,20.33480000000
 0,cement,13,2020,indr_tec2,2020,all-year,all-week,night,8.92630000000
@@ -40,7 +40,7 @@ timeslice,commodity,asset,year,technology,installed,month,day,hour,supply
 1,cement,1,2020,indr_tec,2020,all-year,all-week,morning,1.16670000000
 1,cement,1,2025,indr_tec,2020,all-year,all-week,morning,1.26390000000
 1,cement,2,2020,indr_tec,2020,all-year,all-week,morning,13.93260000000
-1,cement,2,2025,indr_tec,2020,all-year,all-week,morning,22.56940000000
+1,cement,2,2025,indr_tec,2020,all-year,all-week,morning,64.40280000000
 1,cement,3,2020,indr_tec,2020,all-year,all-week,morning,41.33330000000
 1,cement,3,2025,indr_tec,2020,all-year,all-week,morning,40.66960000000
 1,cement,4,2020,indr_tec,2020,all-year,all-week,morning,10.83330000000
@@ -58,7 +58,7 @@ timeslice,commodity,asset,year,technology,installed,month,day,hour,supply
 1,cement,10,2020,indr_tec2,2020,all-year,all-week,morning,1.13690000000
 1,cement,10,2025,indr_tec2,2020,all-year,all-week,morning,0.85270000000
 1,cement,11,2020,indr_tec2,2020,all-year,all-week,morning,6.96630000000
-1,cement,11,2025,indr_tec2,2020,all-year,all-week,morning,22.56940000000
+1,cement,11,2025,indr_tec2,2020,all-year,all-week,morning,64.40280000000
 1,cement,12,2020,indr_tec2,2020,all-year,all-week,morning,27.11310000000
 1,cement,12,2025,indr_tec2,2020,all-year,all-week,morning,20.33480000000
 1,cement,13,2020,indr_tec2,2020,all-year,all-week,morning,8.92630000000
@@ -76,7 +76,7 @@ timeslice,commodity,asset,year,technology,installed,month,day,hour,supply
 2,cement,1,2020,indr_tec,2020,all-year,all-week,afternoon,1.16670000000
 2,cement,1,2025,indr_tec,2020,all-year,all-week,afternoon,1.26390000000
 2,cement,2,2020,indr_tec,2020,all-year,all-week,afternoon,13.93260000000
-2,cement,2,2025,indr_tec,2020,all-year,all-week,afternoon,22.56940000000
+2,cement,2,2025,indr_tec,2020,all-year,all-week,afternoon,64.40280000000
 2,cement,3,2020,indr_tec,2020,all-year,all-week,afternoon,41.33330000000
 2,cement,3,2025,indr_tec,2020,all-year,all-week,afternoon,40.66960000000
 2,cement,4,2020,indr_tec,2020,all-year,all-week,afternoon,10.83330000000
@@ -94,7 +94,7 @@ timeslice,commodity,asset,year,technology,installed,month,day,hour,supply
 2,cement,10,2020,indr_tec2,2020,all-year,all-week,afternoon,1.13690000000
 2,cement,10,2025,indr_tec2,2020,all-year,all-week,afternoon,0.85270000000
 2,cement,11,2020,indr_tec2,2020,all-year,all-week,afternoon,6.96630000000
-2,cement,11,2025,indr_tec2,2020,all-year,all-week,afternoon,22.56940000000
+2,cement,11,2025,indr_tec2,2020,all-year,all-week,afternoon,64.40280000000
 2,cement,12,2020,indr_tec2,2020,all-year,all-week,afternoon,27.11310000000
 2,cement,12,2025,indr_tec2,2020,all-year,all-week,afternoon,20.33480000000
 2,cement,13,2020,indr_tec2,2020,all-year,all-week,afternoon,8.92630000000
@@ -112,7 +112,7 @@ timeslice,commodity,asset,year,technology,installed,month,day,hour,supply
 3,cement,1,2020,indr_tec,2020,all-year,all-week,early-peak,1.16670000000
 3,cement,1,2025,indr_tec,2020,all-year,all-week,early-peak,1.26390000000
 3,cement,2,2020,indr_tec,2020,all-year,all-week,early-peak,13.93260000000
-3,cement,2,2025,indr_tec,2020,all-year,all-week,early-peak,22.56940000000
+3,cement,2,2025,indr_tec,2020,all-year,all-week,early-peak,64.40280000000
 3,cement,3,2020,indr_tec,2020,all-year,all-week,early-peak,41.33330000000
 3,cement,3,2025,indr_tec,2020,all-year,all-week,early-peak,40.66960000000
 3,cement,4,2020,indr_tec,2020,all-year,all-week,early-peak,10.83330000000
@@ -130,7 +130,7 @@ timeslice,commodity,asset,year,technology,installed,month,day,hour,supply
 3,cement,10,2020,indr_tec2,2020,all-year,all-week,early-peak,1.13690000000
 3,cement,10,2025,indr_tec2,2020,all-year,all-week,early-peak,0.85270000000
 3,cement,11,2020,indr_tec2,2020,all-year,all-week,early-peak,6.96630000000
-3,cement,11,2025,indr_tec2,2020,all-year,all-week,early-peak,22.56940000000
+3,cement,11,2025,indr_tec2,2020,all-year,all-week,early-peak,64.40280000000
 3,cement,12,2020,indr_tec2,2020,all-year,all-week,early-peak,27.11310000000
 3,cement,12,2025,indr_tec2,2020,all-year,all-week,early-peak,20.33480000000
 3,cement,13,2020,indr_tec2,2020,all-year,all-week,early-peak,8.92630000000
@@ -148,7 +148,7 @@ timeslice,commodity,asset,year,technology,installed,month,day,hour,supply
 4,cement,1,2020,indr_tec,2020,all-year,all-week,late-peak,1.16670000000
 4,cement,1,2025,indr_tec,2020,all-year,all-week,late-peak,1.26390000000
 4,cement,2,2020,indr_tec,2020,all-year,all-week,late-peak,13.93260000000
-4,cement,2,2025,indr_tec,2020,all-year,all-week,late-peak,22.56940000000
+4,cement,2,2025,indr_tec,2020,all-year,all-week,late-peak,64.40280000000
 4,cement,3,2020,indr_tec,2020,all-year,all-week,late-peak,41.33330000000
 4,cement,3,2025,indr_tec,2020,all-year,all-week,late-peak,40.66960000000
 4,cement,4,2020,indr_tec,2020,all-year,all-week,late-peak,10.83330000000
@@ -166,7 +166,7 @@ timeslice,commodity,asset,year,technology,installed,month,day,hour,supply
 4,cement,10,2020,indr_tec2,2020,all-year,all-week,late-peak,1.13690000000
 4,cement,10,2025,indr_tec2,2020,all-year,all-week,late-peak,0.85270000000
 4,cement,11,2020,indr_tec2,2020,all-year,all-week,late-peak,6.96630000000
-4,cement,11,2025,indr_tec2,2020,all-year,all-week,late-peak,22.56940000000
+4,cement,11,2025,indr_tec2,2020,all-year,all-week,late-peak,64.40280000000
 4,cement,12,2020,indr_tec2,2020,all-year,all-week,late-peak,27.11310000000
 4,cement,12,2025,indr_tec2,2020,all-year,all-week,late-peak,20.33480000000
 4,cement,13,2020,indr_tec2,2020,all-year,all-week,late-peak,8.92630000000
@@ -184,7 +184,7 @@ timeslice,commodity,asset,year,technology,installed,month,day,hour,supply
 5,cement,1,2020,indr_tec,2020,all-year,all-week,evening,1.16670000000
 5,cement,1,2025,indr_tec,2020,all-year,all-week,evening,1.26390000000
 5,cement,2,2020,indr_tec,2020,all-year,all-week,evening,13.93260000000
-5,cement,2,2025,indr_tec,2020,all-year,all-week,evening,22.56940000000
+5,cement,2,2025,indr_tec,2020,all-year,all-week,evening,64.40280000000
 5,cement,3,2020,indr_tec,2020,all-year,all-week,evening,41.33330000000
 5,cement,3,2025,indr_tec,2020,all-year,all-week,evening,40.66960000000
 5,cement,4,2020,indr_tec,2020,all-year,all-week,evening,10.83330000000
@@ -202,7 +202,7 @@ timeslice,commodity,asset,year,technology,installed,month,day,hour,supply
 5,cement,10,2020,indr_tec2,2020,all-year,all-week,evening,1.13690000000
 5,cement,10,2025,indr_tec2,2020,all-year,all-week,evening,0.85270000000
 5,cement,11,2020,indr_tec2,2020,all-year,all-week,evening,6.96630000000
-5,cement,11,2025,indr_tec2,2020,all-year,all-week,evening,22.56940000000
+5,cement,11,2025,indr_tec2,2020,all-year,all-week,evening,64.40280000000
 5,cement,12,2020,indr_tec2,2020,all-year,all-week,evening,27.11310000000
 5,cement,12,2025,indr_tec2,2020,all-year,all-week,evening,20.33480000000
 5,cement,13,2020,indr_tec2,2020,all-year,all-week,evening,8.92630000000
