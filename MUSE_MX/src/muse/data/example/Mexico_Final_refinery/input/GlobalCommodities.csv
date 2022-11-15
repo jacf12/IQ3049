@@ -75,13 +75,6 @@ naphtha,Energy,naphtha,0,1,PJ
 keroj,Energy,keroj,0,1,PJ
 hfo,Energy,hfo,0,1,PJ
 ngl,Energy,ngl,0,1,PJ
-methanol,Energy,methanol,0,1,PJ
-sfuel,Energy,sfuel,0,1,PJ
-pcoal,Energy,pcoal,0,1,PJ
-naphtha,Energy,naphtha,0,1,PJ
-keroj,Energy,keroj,0,1,PJ
-hfo,Energy,hfo,0,1,PJ
-ngl,Energy,ngl,0,1,PJ
 msw,Energy,msw,0,1,PJ
 hardcoal,Energy,hardcoal,0,1,PJ
 encrops,Energy,encrops,0,1,PJ
