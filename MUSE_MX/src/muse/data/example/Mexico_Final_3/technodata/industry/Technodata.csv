@@ -1,0 +1,416 @@
+ProcessName,RegionName,Time,Level,cap_par,cap_exp,fix_par,fix_exp,var_par,var_exp,MaxCapacityAddition,MaxCapacityGrowth,TotalCapacityLimit,TechnicalLife,UtilizationFactor,ScalingSize,efficiency,InterestRate,Type,Fuel,EndUse,Agent2,Agent1
+Unit,-,Year,-,MUS$2010/PJ_a,-,MUS$2010/PJ,-,MUS$2010/PJ,-,PJ,%,PJ,Years,-,PJ,%,-,-,-,-,Retrofit,New
+procChemCoal_Hardcoal,Central,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,coal,chemicals,1,0
+procChemHFO_HFO,Central,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,chemicals,1,0
+procChemHFO_HFO_CCS,Central,2020,fixed,2307.06248,1,5.76756,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,chemicals,1,0
+procChemNG_Biogas,Central,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,biogas,chemicals,1,0
+procChemNG_Biogas_CCS,Central,2020,fixed,15014.98924,1,33.6848,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,biogas,chemicals,1,0
+procChemNG_NG,Central,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,gas,chemicals,1,0
+procChemNG_NG_CCS,Central,2020,fixed,2307.06248,1,5.76756,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,gas,chemicals,1,0
+procIron_Biogas,Central,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biogas,steel,1,0
+procIron_Biogas_CCS,Central,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biogas,steel,1,0
+procIron_ForRes,Central,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biomass,steel,1,0
+procIron_ForRes_CCS,Central,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biomass,steel,1,0
+procIron_Hardcoal,Central,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,coal,steel,1,0
+procIron_HFO,Central,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,steel,1,0
+procIron_HFO_CCS,Central,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,steel,1,0
+procIron_LPG,Central,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,lp_gas,steel,1,0
+procIron_LPG_CCS,Central,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,lp_gas,steel,1,0
+procIron_NG,Central,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,gas,steel,1,0
+procIron_NG_CCS,Central,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procNonmetminDry_Biogas,Central,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biogas,cement,1,0
+procNonmetminDry_Biogas_CCS,Central,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biogas,cement,1,0
+procNonmetminDry_ForRes,Central,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biomass,cement,1,0
+procNonmetminDry_ForRes_CCS,Central,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biomass,cement,1,0
+procNonmetminDry_Hardcoal,Central,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,coal,cement,1,0
+procNonmetminDry_HFO,Central,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,electricity,cement,1,0
+procNonmetminDry_HFO_CCS,Central,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,hydrogen,cement,1,0
+procNonmetminDry_LPG,Central,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,lp_gas,cement,1,0
+procNonmetminDry_LPG_CCS,Central,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,lp_gas,cement,1,0
+procNonmetminDry_NG,Central,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procNonmetminDry_NG_CCS,Central,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procPulppChem_Biogas,Central,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biogas,paper,1,0
+procPulppChem_Biogas_CCS,Central,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biogas,paper,1,0
+procPulppChem_ForRes,Central,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biomass,paper,1,0
+procPulppChem_ForRes_CCS,Central,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biomass,paper,1,0
+procPulppChem_Hardcoal,Central,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,coal,paper,1,0
+procPulppChem_HFO,Central,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,fuel_oil,paper,1,0
+procPulppChem_HFO_CCS,Central,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,fuel_oil,paper,1,0
+procPulppChem_LPG,Central,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,lp_gas,paper,1,0
+procPulppChem_LPG_CCS,Central,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,lp_gas,paper,1,0
+procPulppChem_NG,Central,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,gas,paper,1,0
+procPulppChem_NG_CCS,Central,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,gas,paper,1,0
+procGlass,Central,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,gas,glass,1,0
+procSugar,Central,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel_oil,sugar,1,0
+procMining,Central,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,minerals,1,0
+procOtherInd,Central,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,electricity,other,1,0
+procRubber,Central,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,electricity,rubber,1,0
+procChemFertiliz,Central,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,electricity,fertilizers,1,0
+procChemCoal_Hardcoal,Eastern,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,coal,chemicals,1,0
+procChemHFO_HFO,Eastern,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,chemicals,1,0
+procChemHFO_HFO_CCS,Eastern,2020,fixed,2307.06248,1,5.76756,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,chemicals,1,0
+procChemNG_Biogas,Eastern,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,biogas,chemicals,1,0
+procChemNG_Biogas_CCS,Eastern,2020,fixed,15014.98924,1,33.6848,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,biogas,chemicals,1,0
+procChemNG_NG,Eastern,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,gas,chemicals,1,0
+procChemNG_NG_CCS,Eastern,2020,fixed,2307.06248,1,5.76756,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,gas,chemicals,1,0
+procIron_Biogas,Eastern,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biogas,steel,1,0
+procIron_Biogas_CCS,Eastern,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biogas,steel,1,0
+procIron_ForRes,Eastern,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biomass,steel,1,0
+procIron_ForRes_CCS,Eastern,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biomass,steel,1,0
+procIron_Hardcoal,Eastern,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,coal,steel,1,0
+procIron_HFO,Eastern,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,steel,1,0
+procIron_HFO_CCS,Eastern,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,steel,1,0
+procIron_LPG,Eastern,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,lp_gas,steel,1,0
+procIron_LPG_CCS,Eastern,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,lp_gas,steel,1,0
+procIron_NG,Eastern,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,gas,steel,1,0
+procIron_NG_CCS,Eastern,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procNonmetminDry_Biogas,Eastern,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biogas,cement,1,0
+procNonmetminDry_Biogas_CCS,Eastern,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biogas,cement,1,0
+procNonmetminDry_ForRes,Eastern,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biomass,cement,1,0
+procNonmetminDry_ForRes_CCS,Eastern,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biomass,cement,1,0
+procNonmetminDry_Hardcoal,Eastern,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,coal,cement,1,0
+procNonmetminDry_HFO,Eastern,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,electricity,cement,1,0
+procNonmetminDry_HFO_CCS,Eastern,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,hydrogen,cement,1,0
+procNonmetminDry_LPG,Eastern,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,lp_gas,cement,1,0
+procNonmetminDry_LPG_CCS,Eastern,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,lp_gas,cement,1,0
+procNonmetminDry_NG,Eastern,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procNonmetminDry_NG_CCS,Eastern,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procPulppChem_Biogas,Eastern,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biogas,paper,1,0
+procPulppChem_Biogas_CCS,Eastern,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biogas,paper,1,0
+procPulppChem_ForRes,Eastern,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biomass,paper,1,0
+procPulppChem_ForRes_CCS,Eastern,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biomass,paper,1,0
+procPulppChem_Hardcoal,Eastern,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,coal,paper,1,0
+procPulppChem_HFO,Eastern,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,fuel_oil,paper,1,0
+procPulppChem_HFO_CCS,Eastern,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,fuel_oil,paper,1,0
+procPulppChem_LPG,Eastern,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,lp_gas,paper,1,0
+procPulppChem_LPG_CCS,Eastern,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,lp_gas,paper,1,0
+procPulppChem_NG,Eastern,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,gas,paper,1,0
+procPulppChem_NG_CCS,Eastern,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,gas,paper,1,0
+procGlass,Eastern,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,gas,glass,1,0
+procSugar,Eastern,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel_oil,sugar,1,0
+procMining,Eastern,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,minerals,1,0
+procOtherInd,Eastern,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,electricity,other,1,0
+procRubber,Eastern,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,electricity,rubber,1,0
+procChemFertiliz,Eastern,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,electricity,fertilizers,1,0
+procChemCoal_Hardcoal,Western,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,coal,chemicals,1,0
+procChemHFO_HFO,Western,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,chemicals,1,0
+procChemHFO_HFO_CCS,Western,2020,fixed,2307.06248,1,5.76756,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,chemicals,1,0
+procChemNG_Biogas,Western,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,biogas,chemicals,1,0
+procChemNG_Biogas_CCS,Western,2020,fixed,15014.98924,1,33.6848,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,biogas,chemicals,1,0
+procChemNG_NG,Western,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,gas,chemicals,1,0
+procChemNG_NG_CCS,Western,2020,fixed,2307.06248,1,5.76756,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,gas,chemicals,1,0
+procIron_Biogas,Western,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biogas,steel,1,0
+procIron_Biogas_CCS,Western,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biogas,steel,1,0
+procIron_ForRes,Western,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biomass,steel,1,0
+procIron_ForRes_CCS,Western,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biomass,steel,1,0
+procIron_Hardcoal,Western,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,coal,steel,1,0
+procIron_HFO,Western,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,steel,1,0
+procIron_HFO_CCS,Western,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,steel,1,0
+procIron_LPG,Western,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,lp_gas,steel,1,0
+procIron_LPG_CCS,Western,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,lp_gas,steel,1,0
+procIron_NG,Western,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,gas,steel,1,0
+procIron_NG_CCS,Western,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procNonmetminDry_Biogas,Western,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biogas,cement,1,0
+procNonmetminDry_Biogas_CCS,Western,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biogas,cement,1,0
+procNonmetminDry_ForRes,Western,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biomass,cement,1,0
+procNonmetminDry_ForRes_CCS,Western,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biomass,cement,1,0
+procNonmetminDry_Hardcoal,Western,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,coal,cement,1,0
+procNonmetminDry_HFO,Western,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,electricity,cement,1,0
+procNonmetminDry_HFO_CCS,Western,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,hydrogen,cement,1,0
+procNonmetminDry_LPG,Western,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,lp_gas,cement,1,0
+procNonmetminDry_LPG_CCS,Western,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,lp_gas,cement,1,0
+procNonmetminDry_NG,Western,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procNonmetminDry_NG_CCS,Western,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procPulppChem_Biogas,Western,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biogas,paper,1,0
+procPulppChem_Biogas_CCS,Western,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biogas,paper,1,0
+procPulppChem_ForRes,Western,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biomass,paper,1,0
+procPulppChem_ForRes_CCS,Western,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biomass,paper,1,0
+procPulppChem_Hardcoal,Western,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,coal,paper,1,0
+procPulppChem_HFO,Western,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,fuel_oil,paper,1,0
+procPulppChem_HFO_CCS,Western,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,fuel_oil,paper,1,0
+procPulppChem_LPG,Western,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,lp_gas,paper,1,0
+procPulppChem_LPG_CCS,Western,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,lp_gas,paper,1,0
+procPulppChem_NG,Western,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,gas,paper,1,0
+procPulppChem_NG_CCS,Western,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,gas,paper,1,0
+procGlass,Western,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,gas,glass,1,0
+procSugar,Western,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel_oil,sugar,1,0
+procMining,Western,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,minerals,1,0
+procOtherInd,Western,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,electricity,other,1,0
+procRubber,Western,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,electricity,rubber,1,0
+procChemFertiliz,Western,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,electricity,fertilizers,1,0
+procChemCoal_Hardcoal,Northwest,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,coal,chemicals,1,0
+procChemHFO_HFO,Northwest,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,chemicals,1,0
+procChemHFO_HFO_CCS,Northwest,2020,fixed,2307.06248,1,5.76756,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,chemicals,1,0
+procChemNG_Biogas,Northwest,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,biogas,chemicals,1,0
+procChemNG_Biogas_CCS,Northwest,2020,fixed,15014.98924,1,33.6848,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,biogas,chemicals,1,0
+procChemNG_NG,Northwest,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,gas,chemicals,1,0
+procChemNG_NG_CCS,Northwest,2020,fixed,2307.06248,1,5.76756,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,gas,chemicals,1,0
+procIron_Biogas,Northwest,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biogas,steel,1,0
+procIron_Biogas_CCS,Northwest,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biogas,steel,1,0
+procIron_ForRes,Northwest,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biomass,steel,1,0
+procIron_ForRes_CCS,Northwest,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biomass,steel,1,0
+procIron_Hardcoal,Northwest,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,coal,steel,1,0
+procIron_HFO,Northwest,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,steel,1,0
+procIron_HFO_CCS,Northwest,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,steel,1,0
+procIron_LPG,Northwest,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,lp_gas,steel,1,0
+procIron_LPG_CCS,Northwest,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,lp_gas,steel,1,0
+procIron_NG,Northwest,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,gas,steel,1,0
+procIron_NG_CCS,Northwest,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procNonmetminDry_Biogas,Northwest,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biogas,cement,1,0
+procNonmetminDry_Biogas_CCS,Northwest,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biogas,cement,1,0
+procNonmetminDry_ForRes,Northwest,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biomass,cement,1,0
+procNonmetminDry_ForRes_CCS,Northwest,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biomass,cement,1,0
+procNonmetminDry_Hardcoal,Northwest,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,coal,cement,1,0
+procNonmetminDry_HFO,Northwest,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,electricity,cement,1,0
+procNonmetminDry_HFO_CCS,Northwest,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,hydrogen,cement,1,0
+procNonmetminDry_LPG,Northwest,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,lp_gas,cement,1,0
+procNonmetminDry_LPG_CCS,Northwest,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,lp_gas,cement,1,0
+procNonmetminDry_NG,Northwest,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procNonmetminDry_NG_CCS,Northwest,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procPulppChem_Biogas,Northwest,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biogas,paper,1,0
+procPulppChem_Biogas_CCS,Northwest,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biogas,paper,1,0
+procPulppChem_ForRes,Northwest,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biomass,paper,1,0
+procPulppChem_ForRes_CCS,Northwest,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biomass,paper,1,0
+procPulppChem_Hardcoal,Northwest,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,coal,paper,1,0
+procPulppChem_HFO,Northwest,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,fuel_oil,paper,1,0
+procPulppChem_HFO_CCS,Northwest,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,fuel_oil,paper,1,0
+procPulppChem_LPG,Northwest,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,lp_gas,paper,1,0
+procPulppChem_LPG_CCS,Northwest,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,lp_gas,paper,1,0
+procPulppChem_NG,Northwest,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,gas,paper,1,0
+procPulppChem_NG_CCS,Northwest,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,gas,paper,1,0
+procGlass,Northwest,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,gas,glass,1,0
+procSugar,Northwest,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel_oil,sugar,1,0
+procMining,Northwest,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,minerals,1,0
+procOtherInd,Northwest,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,electricity,other,1,0
+procRubber,Northwest,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,electricity,rubber,1,0
+procChemFertiliz,Northwest,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,electricity,fertilizers,1,0
+procChemCoal_Hardcoal,North,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,coal,chemicals,1,0
+procChemHFO_HFO,North,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,chemicals,1,0
+procChemHFO_HFO_CCS,North,2020,fixed,2307.06248,1,5.76756,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,chemicals,1,0
+procChemNG_Biogas,North,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,biogas,chemicals,1,0
+procChemNG_Biogas_CCS,North,2020,fixed,15014.98924,1,33.6848,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,biogas,chemicals,1,0
+procChemNG_NG,North,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,gas,chemicals,1,0
+procChemNG_NG_CCS,North,2020,fixed,2307.06248,1,5.76756,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,gas,chemicals,1,0
+procIron_Biogas,North,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biogas,steel,1,0
+procIron_Biogas_CCS,North,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biogas,steel,1,0
+procIron_ForRes,North,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biomass,steel,1,0
+procIron_ForRes_CCS,North,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biomass,steel,1,0
+procIron_Hardcoal,North,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,coal,steel,1,0
+procIron_HFO,North,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,steel,1,0
+procIron_HFO_CCS,North,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,steel,1,0
+procIron_LPG,North,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,lp_gas,steel,1,0
+procIron_LPG_CCS,North,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,lp_gas,steel,1,0
+procIron_NG,North,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,gas,steel,1,0
+procIron_NG_CCS,North,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procNonmetminDry_Biogas,North,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biogas,cement,1,0
+procNonmetminDry_Biogas_CCS,North,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biogas,cement,1,0
+procNonmetminDry_ForRes,North,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biomass,cement,1,0
+procNonmetminDry_ForRes_CCS,North,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biomass,cement,1,0
+procNonmetminDry_Hardcoal,North,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,coal,cement,1,0
+procNonmetminDry_HFO,North,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,electricity,cement,1,0
+procNonmetminDry_HFO_CCS,North,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,hydrogen,cement,1,0
+procNonmetminDry_LPG,North,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,lp_gas,cement,1,0
+procNonmetminDry_LPG_CCS,North,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,lp_gas,cement,1,0
+procNonmetminDry_NG,North,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procNonmetminDry_NG_CCS,North,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procPulppChem_Biogas,North,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biogas,paper,1,0
+procPulppChem_Biogas_CCS,North,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biogas,paper,1,0
+procPulppChem_ForRes,North,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biomass,paper,1,0
+procPulppChem_ForRes_CCS,North,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biomass,paper,1,0
+procPulppChem_Hardcoal,North,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,coal,paper,1,0
+procPulppChem_HFO,North,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,fuel_oil,paper,1,0
+procPulppChem_HFO_CCS,North,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,fuel_oil,paper,1,0
+procPulppChem_LPG,North,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,lp_gas,paper,1,0
+procPulppChem_LPG_CCS,North,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,lp_gas,paper,1,0
+procPulppChem_NG,North,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,gas,paper,1,0
+procPulppChem_NG_CCS,North,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,gas,paper,1,0
+procGlass,North,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,gas,glass,1,0
+procSugar,North,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel_oil,sugar,1,0
+procMining,North,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,minerals,1,0
+procOtherInd,North,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,electricity,other,1,0
+procRubber,North,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,electricity,rubber,1,0
+procChemFertiliz,North,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,electricity,fertilizers,1,0
+procChemCoal_Hardcoal,Northeast,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,coal,chemicals,1,0
+procChemHFO_HFO,Northeast,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,chemicals,1,0
+procChemHFO_HFO_CCS,Northeast,2020,fixed,2307.06248,1,5.76756,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,chemicals,1,0
+procChemNG_Biogas,Northeast,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,biogas,chemicals,1,0
+procChemNG_Biogas_CCS,Northeast,2020,fixed,15014.98924,1,33.6848,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,biogas,chemicals,1,0
+procChemNG_NG,Northeast,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,gas,chemicals,1,0
+procChemNG_NG_CCS,Northeast,2020,fixed,2307.06248,1,5.76756,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,gas,chemicals,1,0
+procIron_Biogas,Northeast,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biogas,steel,1,0
+procIron_Biogas_CCS,Northeast,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biogas,steel,1,0
+procIron_ForRes,Northeast,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biomass,steel,1,0
+procIron_ForRes_CCS,Northeast,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biomass,steel,1,0
+procIron_Hardcoal,Northeast,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,coal,steel,1,0
+procIron_HFO,Northeast,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,steel,1,0
+procIron_HFO_CCS,Northeast,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,steel,1,0
+procIron_LPG,Northeast,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,lp_gas,steel,1,0
+procIron_LPG_CCS,Northeast,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,lp_gas,steel,1,0
+procIron_NG,Northeast,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,gas,steel,1,0
+procIron_NG_CCS,Northeast,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procNonmetminDry_Biogas,Northeast,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biogas,cement,1,0
+procNonmetminDry_Biogas_CCS,Northeast,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biogas,cement,1,0
+procNonmetminDry_ForRes,Northeast,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biomass,cement,1,0
+procNonmetminDry_ForRes_CCS,Northeast,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biomass,cement,1,0
+procNonmetminDry_Hardcoal,Northeast,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,coal,cement,1,0
+procNonmetminDry_HFO,Northeast,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,electricity,cement,1,0
+procNonmetminDry_HFO_CCS,Northeast,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,hydrogen,cement,1,0
+procNonmetminDry_LPG,Northeast,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,lp_gas,cement,1,0
+procNonmetminDry_LPG_CCS,Northeast,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,lp_gas,cement,1,0
+procNonmetminDry_NG,Northeast,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procNonmetminDry_NG_CCS,Northeast,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procPulppChem_Biogas,Northeast,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biogas,paper,1,0
+procPulppChem_Biogas_CCS,Northeast,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biogas,paper,1,0
+procPulppChem_ForRes,Northeast,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biomass,paper,1,0
+procPulppChem_ForRes_CCS,Northeast,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biomass,paper,1,0
+procPulppChem_Hardcoal,Northeast,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,coal,paper,1,0
+procPulppChem_HFO,Northeast,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,fuel_oil,paper,1,0
+procPulppChem_HFO_CCS,Northeast,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,fuel_oil,paper,1,0
+procPulppChem_LPG,Northeast,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,lp_gas,paper,1,0
+procPulppChem_LPG_CCS,Northeast,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,lp_gas,paper,1,0
+procPulppChem_NG,Northeast,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,gas,paper,1,0
+procPulppChem_NG_CCS,Northeast,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,gas,paper,1,0
+procGlass,Northeast,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,gas,glass,1,0
+procSugar,Northeast,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel_oil,sugar,1,0
+procMining,Northeast,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,minerals,1,0
+procOtherInd,Northeast,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,electricity,other,1,0
+procRubber,Northeast,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,electricity,rubber,1,0
+procChemFertiliz,Northeast,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,electricity,fertilizers,1,0
+procChemCoal_Hardcoal,BajaCalif,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,coal,chemicals,1,0
+procChemHFO_HFO,BajaCalif,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,chemicals,1,0
+procChemHFO_HFO_CCS,BajaCalif,2020,fixed,2307.06248,1,5.76756,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,chemicals,1,0
+procChemNG_Biogas,BajaCalif,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,biogas,chemicals,1,0
+procChemNG_Biogas_CCS,BajaCalif,2020,fixed,15014.98924,1,33.6848,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,biogas,chemicals,1,0
+procChemNG_NG,BajaCalif,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,gas,chemicals,1,0
+procChemNG_NG_CCS,BajaCalif,2020,fixed,2307.06248,1,5.76756,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,gas,chemicals,1,0
+procIron_Biogas,BajaCalif,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biogas,steel,1,0
+procIron_Biogas_CCS,BajaCalif,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biogas,steel,1,0
+procIron_ForRes,BajaCalif,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biomass,steel,1,0
+procIron_ForRes_CCS,BajaCalif,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biomass,steel,1,0
+procIron_Hardcoal,BajaCalif,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,coal,steel,1,0
+procIron_HFO,BajaCalif,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,steel,1,0
+procIron_HFO_CCS,BajaCalif,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,steel,1,0
+procIron_LPG,BajaCalif,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,lp_gas,steel,1,0
+procIron_LPG_CCS,BajaCalif,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,lp_gas,steel,1,0
+procIron_NG,BajaCalif,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,gas,steel,1,0
+procIron_NG_CCS,BajaCalif,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procNonmetminDry_Biogas,BajaCalif,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biogas,cement,1,0
+procNonmetminDry_Biogas_CCS,BajaCalif,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biogas,cement,1,0
+procNonmetminDry_ForRes,BajaCalif,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biomass,cement,1,0
+procNonmetminDry_ForRes_CCS,BajaCalif,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biomass,cement,1,0
+procNonmetminDry_Hardcoal,BajaCalif,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,coal,cement,1,0
+procNonmetminDry_HFO,BajaCalif,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,electricity,cement,1,0
+procNonmetminDry_HFO_CCS,BajaCalif,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,hydrogen,cement,1,0
+procNonmetminDry_LPG,BajaCalif,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,lp_gas,cement,1,0
+procNonmetminDry_LPG_CCS,BajaCalif,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,lp_gas,cement,1,0
+procNonmetminDry_NG,BajaCalif,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procNonmetminDry_NG_CCS,BajaCalif,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procPulppChem_Biogas,BajaCalif,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biogas,paper,1,0
+procPulppChem_Biogas_CCS,BajaCalif,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biogas,paper,1,0
+procPulppChem_ForRes,BajaCalif,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biomass,paper,1,0
+procPulppChem_ForRes_CCS,BajaCalif,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biomass,paper,1,0
+procPulppChem_Hardcoal,BajaCalif,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,coal,paper,1,0
+procPulppChem_HFO,BajaCalif,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,fuel_oil,paper,1,0
+procPulppChem_HFO_CCS,BajaCalif,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,fuel_oil,paper,1,0
+procPulppChem_LPG,BajaCalif,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,lp_gas,paper,1,0
+procPulppChem_LPG_CCS,BajaCalif,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,lp_gas,paper,1,0
+procPulppChem_NG,BajaCalif,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,gas,paper,1,0
+procPulppChem_NG_CCS,BajaCalif,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,gas,paper,1,0
+procGlass,BajaCalif,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,gas,glass,1,0
+procSugar,BajaCalif,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel_oil,sugar,1,0
+procMining,BajaCalif,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,minerals,1,0
+procOtherInd,BajaCalif,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,electricity,other,1,0
+procRubber,BajaCalif,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,electricity,rubber,1,0
+procChemFertiliz,BajaCalif,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,electricity,fertilizers,1,0
+procChemCoal_Hardcoal,BajaCalifSouth,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,coal,chemicals,1,0
+procChemHFO_HFO,BajaCalifSouth,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,chemicals,1,0
+procChemHFO_HFO_CCS,BajaCalifSouth,2020,fixed,2307.06248,1,5.76756,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,chemicals,1,0
+procChemNG_Biogas,BajaCalifSouth,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,biogas,chemicals,1,0
+procChemNG_Biogas_CCS,BajaCalifSouth,2020,fixed,15014.98924,1,33.6848,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,biogas,chemicals,1,0
+procChemNG_NG,BajaCalifSouth,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,gas,chemicals,1,0
+procChemNG_NG_CCS,BajaCalifSouth,2020,fixed,2307.06248,1,5.76756,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,gas,chemicals,1,0
+procIron_Biogas,BajaCalifSouth,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biogas,steel,1,0
+procIron_Biogas_CCS,BajaCalifSouth,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biogas,steel,1,0
+procIron_ForRes,BajaCalifSouth,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biomass,steel,1,0
+procIron_ForRes_CCS,BajaCalifSouth,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biomass,steel,1,0
+procIron_Hardcoal,BajaCalifSouth,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,coal,steel,1,0
+procIron_HFO,BajaCalifSouth,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,steel,1,0
+procIron_HFO_CCS,BajaCalifSouth,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,steel,1,0
+procIron_LPG,BajaCalifSouth,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,lp_gas,steel,1,0
+procIron_LPG_CCS,BajaCalifSouth,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,lp_gas,steel,1,0
+procIron_NG,BajaCalifSouth,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,gas,steel,1,0
+procIron_NG_CCS,BajaCalifSouth,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procNonmetminDry_Biogas,BajaCalifSouth,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biogas,cement,1,0
+procNonmetminDry_Biogas_CCS,BajaCalifSouth,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biogas,cement,1,0
+procNonmetminDry_ForRes,BajaCalifSouth,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biomass,cement,1,0
+procNonmetminDry_ForRes_CCS,BajaCalifSouth,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biomass,cement,1,0
+procNonmetminDry_Hardcoal,BajaCalifSouth,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,coal,cement,1,0
+procNonmetminDry_HFO,BajaCalifSouth,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,electricity,cement,1,0
+procNonmetminDry_HFO_CCS,BajaCalifSouth,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,hydrogen,cement,1,0
+procNonmetminDry_LPG,BajaCalifSouth,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,lp_gas,cement,1,0
+procNonmetminDry_LPG_CCS,BajaCalifSouth,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,lp_gas,cement,1,0
+procNonmetminDry_NG,BajaCalifSouth,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procNonmetminDry_NG_CCS,BajaCalifSouth,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procPulppChem_Biogas,BajaCalifSouth,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biogas,paper,1,0
+procPulppChem_Biogas_CCS,BajaCalifSouth,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biogas,paper,1,0
+procPulppChem_ForRes,BajaCalifSouth,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biomass,paper,1,0
+procPulppChem_ForRes_CCS,BajaCalifSouth,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biomass,paper,1,0
+procPulppChem_Hardcoal,BajaCalifSouth,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,coal,paper,1,0
+procPulppChem_HFO,BajaCalifSouth,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,fuel_oil,paper,1,0
+procPulppChem_HFO_CCS,BajaCalifSouth,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,fuel_oil,paper,1,0
+procPulppChem_LPG,BajaCalifSouth,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,lp_gas,paper,1,0
+procPulppChem_LPG_CCS,BajaCalifSouth,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,lp_gas,paper,1,0
+procPulppChem_NG,BajaCalifSouth,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,gas,paper,1,0
+procPulppChem_NG_CCS,BajaCalifSouth,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,gas,paper,1,0
+procGlass,BajaCalifSouth,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,gas,glass,1,0
+procSugar,BajaCalifSouth,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel_oil,sugar,1,0
+procMining,BajaCalifSouth,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,minerals,1,0
+procOtherInd,BajaCalifSouth,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,electricity,other,1,0
+procRubber,BajaCalifSouth,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,electricity,rubber,1,0
+procChemFertiliz,BajaCalifSouth,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,electricity,fertilizers,1,0
+procChemCoal_Hardcoal,Peninsular,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,coal,chemicals,1,0
+procChemHFO_HFO,Peninsular,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,chemicals,1,0
+procChemHFO_HFO_CCS,Peninsular,2020,fixed,2307.06248,1,5.76756,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,chemicals,1,0
+procChemNG_Biogas,Peninsular,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,biogas,chemicals,1,0
+procChemNG_Biogas_CCS,Peninsular,2020,fixed,15014.98924,1,33.6848,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,biogas,chemicals,1,0
+procChemNG_NG,Peninsular,2020,fixed,1558.826,1,3.897,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,gas,chemicals,1,0
+procChemNG_NG_CCS,Peninsular,2020,fixed,2307.06248,1,5.76756,1,0,1,300,0.98,2701.68,25,0.9,0.1,1,0.1,energy,gas,chemicals,1,0
+procIron_Biogas,Peninsular,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biogas,steel,1,0
+procIron_Biogas_CCS,Peninsular,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biogas,steel,1,0
+procIron_ForRes,Peninsular,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biomass,steel,1,0
+procIron_ForRes_CCS,Peninsular,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,biomass,steel,1,0
+procIron_Hardcoal,Peninsular,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,coal,steel,1,0
+procIron_HFO,Peninsular,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,steel,1,0
+procIron_HFO_CCS,Peninsular,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,steel,1,0
+procIron_LPG,Peninsular,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,lp_gas,steel,1,0
+procIron_LPG_CCS,Peninsular,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,lp_gas,steel,1,0
+procIron_NG,Peninsular,2020,fixed,4989.517,1,9.979,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,gas,steel,1,0
+procIron_NG_CCS,Peninsular,2020,fixed,7384.48516,1,14.76892,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procNonmetminDry_Biogas,Peninsular,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biogas,cement,1,0
+procNonmetminDry_Biogas_CCS,Peninsular,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biogas,cement,1,0
+procNonmetminDry_ForRes,Peninsular,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biomass,cement,1,0
+procNonmetminDry_ForRes_CCS,Peninsular,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,biomass,cement,1,0
+procNonmetminDry_Hardcoal,Peninsular,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,coal,cement,1,0
+procNonmetminDry_HFO,Peninsular,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,electricity,cement,1,0
+procNonmetminDry_HFO_CCS,Peninsular,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,hydrogen,cement,1,0
+procNonmetminDry_LPG,Peninsular,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,lp_gas,cement,1,0
+procNonmetminDry_LPG_CCS,Peninsular,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,lp_gas,cement,1,0
+procNonmetminDry_NG,Peninsular,2020,fixed,11081.26,1,19.468,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procNonmetminDry_NG_CCS,Peninsular,2020,fixed,16400.2648,1,28.81264,1,0,1,300,0.3,2701.68,30,0.9,0.1,1,0.1,energy,gas,cement,1,0
+procPulppChem_Biogas,Peninsular,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biogas,paper,1,0
+procPulppChem_Biogas_CCS,Peninsular,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biogas,paper,1,0
+procPulppChem_ForRes,Peninsular,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biomass,paper,1,0
+procPulppChem_ForRes_CCS,Peninsular,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,biomass,paper,1,0
+procPulppChem_Hardcoal,Peninsular,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,coal,paper,1,0
+procPulppChem_HFO,Peninsular,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,fuel_oil,paper,1,0
+procPulppChem_HFO_CCS,Peninsular,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,fuel_oil,paper,1,0
+procPulppChem_LPG,Peninsular,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,lp_gas,paper,1,0
+procPulppChem_LPG_CCS,Peninsular,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,lp_gas,paper,1,0
+procPulppChem_NG,Peninsular,2020,fixed,35817.12,1,79.969,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,gas,paper,1,0
+procPulppChem_NG_CCS,Peninsular,2020,fixed,53009.3376,1,118.35412,1,0,1,300,0.45,2701.68,20,0.9,0.1,1,0.1,energy,gas,paper,1,0
+procGlass,Peninsular,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,gas,glass,1,0
+procSugar,Peninsular,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel_oil,sugar,1,0
+procMining,Peninsular,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,fuel oil,minerals,1,0
+procOtherInd,Peninsular,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,electricity,other,1,0
+procRubber,Peninsular,2020,fixed,7364.007,1,29.456,1,0,1,300,0.3,2701.68,25,0.9,0.1,1,0.1,energy,electricity,rubber,1,0
+procChemFertiliz,Peninsular,2020,fixed,10145.263,1,22.76,1,0,1,300,0.98,2701.68,15,0.9,0.1,1,0.1,energy,electricity,fertilizers,1,0

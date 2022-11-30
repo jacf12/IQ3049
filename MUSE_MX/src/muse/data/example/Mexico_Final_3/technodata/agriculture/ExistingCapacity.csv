@@ -1,0 +1,100 @@
+ProcessName,RegionName,Unit,2020,2025,2030,2035,2040,2045,2050
+agrTraditionalCropping_fruits,Central,Mt,4.11E+05,4.27E+05,4.35E+05,4.44E+05,4.52E+05,4.60E+05,4.72E+05
+agrModernCropping_fruits,Central,Mt,2.53E+07,2.63E+07,2.69E+07,2.74E+07,2.79E+07,2.84E+07,2.91E+07
+agrTraditionalCropping_vegt,Central,Mt,4.00E+06,4.16E+06,4.24E+06,4.32E+06,4.40E+06,4.48E+06,4.60E+06
+agrModernCropping_vegt,Central,Mt,2.46E+08,2.56E+08,2.61E+08,2.66E+08,2.71E+08,2.76E+08,2.83E+08
+agrTraditionalCropping_seeds,Central,Mt,1.50E+05,1.56E+05,1.59E+05,1.62E+05,1.65E+05,1.68E+05,1.72E+05
+agrModernCropping_seeds,Central,Millons of pieces,9.23E+06,9.60E+06,9.79E+06,9.97E+06,1.02E+07,1.03E+07,1.06E+07
+agrTraditionalCropping_plants,Central,Millons of pieces,1.32E+07,1.37E+07,1.39E+07,1.42E+07,1.45E+07,1.47E+07,1.51E+07
+agrModernCropping_plants,Central,Mm3/UP,8.11E+08,8.43E+08,8.60E+08,8.76E+08,8.92E+08,9.08E+08,9.33E+08
+livestock_meat,Central,Mt/UP,2.28E+05,2.37E+05,2.42E+05,2.47E+05,2.51E+05,2.56E+05,2.63E+05
+livestock_milk,Central,Mt/UP,2.11E+05,2.20E+05,2.24E+05,2.28E+05,2.33E+05,2.37E+05,2.43E+05
+livestock_other,Central,Mt/UP,1.04E+04,1.08E+04,1.10E+04,1.12E+04,1.14E+04,1.16E+04,1.19E+04
+agrTraditionalCropping_fruits,Eastern,Mt,2.17E+06,2.26E+06,2.30E+06,2.35E+06,2.39E+06,2.43E+06,2.50E+06
+agrModernCropping_fruits,Eastern,Mt,1.34E+08,1.39E+08,1.42E+08,1.45E+08,1.47E+08,1.50E+08,1.54E+08
+agrTraditionalCropping_vegt,Eastern,Mt,2.93E+06,3.05E+06,3.11E+06,3.17E+06,3.22E+06,3.28E+06,3.37E+06
+agrModernCropping_vegt,Eastern,Mt,1.81E+08,1.88E+08,1.92E+08,1.95E+08,1.99E+08,2.02E+08,2.08E+08
+agrTraditionalCropping_seeds,Eastern,Mt,2.87E+05,2.99E+05,3.05E+05,3.10E+05,3.16E+05,3.22E+05,3.30E+05
+agrModernCropping_seeds,Eastern,Millons of pieces,1.77E+07,1.84E+07,1.88E+07,1.91E+07,1.95E+07,1.98E+07,2.04E+07
+agrTraditionalCropping_plants,Eastern,Millons of pieces,6.00E+06,6.24E+06,6.36E+06,6.48E+06,6.60E+06,6.72E+06,6.90E+06
+agrModernCropping_plants,Eastern,Mm3/UP,3.70E+08,3.85E+08,3.92E+08,4.00E+08,4.07E+08,4.14E+08,4.26E+08
+livestock_meat,Eastern,Mt/UP,1.07E+06,1.11E+06,1.13E+06,1.16E+06,1.18E+06,1.20E+06,1.23E+06
+livestock_milk,Eastern,Mt/UP,4.38E+05,4.56E+05,4.65E+05,4.73E+05,4.82E+05,4.91E+05,5.04E+05
+livestock_other,Eastern,Mt/UP,1.77E+05,1.85E+05,1.88E+05,1.92E+05,1.95E+05,1.99E+05,2.04E+05
+agrTraditionalCropping_fruits,Western,Mt,3.29E+06,3.42E+06,3.49E+06,3.55E+06,3.62E+06,3.69E+06,3.78E+06
+agrModernCropping_fruits,Western,Mt,2.03E+08,2.11E+08,2.15E+08,2.19E+08,2.23E+08,2.27E+08,2.33E+08
+agrTraditionalCropping_vegt,Western,Mt,3.29E+06,3.42E+06,3.49E+06,3.55E+06,3.62E+06,3.69E+06,3.78E+06
+agrModernCropping_vegt,Western,Mt,2.03E+08,2.11E+08,2.15E+08,2.19E+08,2.23E+08,2.27E+08,2.33E+08
+agrTraditionalCropping_seeds,Western,Mt,6.55E+05,6.81E+05,6.94E+05,7.07E+05,7.20E+05,7.33E+05,7.53E+05
+agrModernCropping_seeds,Western,Millons of pieces,4.04E+07,4.20E+07,4.28E+07,4.36E+07,4.44E+07,4.52E+07,4.64E+07
+agrTraditionalCropping_plants,Western,Millons of pieces,8.05E+06,8.37E+06,8.54E+06,8.70E+06,8.86E+06,9.02E+06,9.26E+06
+agrModernCropping_plants,Western,Mm3/UP,4.97E+08,5.16E+08,5.26E+08,5.36E+08,5.46E+08,5.56E+08,5.71E+08
+livestock_meat,Western,Mt/UP,1.63E+06,1.69E+06,1.73E+06,1.76E+06,1.79E+06,1.82E+06,1.87E+06
+livestock_milk,Western,Mt/UP,1.14E+06,1.19E+06,1.21E+06,1.23E+06,1.25E+06,1.28E+06,1.31E+06
+livestock_other,Western,Mt/UP,6.29E+05,6.54E+05,6.67E+05,6.80E+05,6.92E+05,7.05E+05,7.24E+05
+agrTraditionalCropping_fruits,Northwest,Mt,1.62E+06,1.69E+06,1.72E+06,1.75E+06,1.78E+06,1.82E+06,1.86E+06
+agrModernCropping_fruits,Northwest,Mt,1.00E+08,1.04E+08,1.06E+08,1.08E+08,1.10E+08,1.12E+08,1.15E+08
+agrTraditionalCropping_vegt,Northwest,Mt,3.36E+06,3.49E+06,3.56E+06,3.62E+06,3.69E+06,3.76E+06,3.86E+06
+agrModernCropping_vegt,Northwest,Mt,2.07E+08,2.15E+08,2.19E+08,2.23E+08,2.28E+08,2.32E+08,2.38E+08
+agrTraditionalCropping_seeds,Northwest,Mt,7.01E+05,7.29E+05,7.43E+05,7.57E+05,7.71E+05,7.85E+05,8.06E+05
+agrModernCropping_seeds,Northwest,Millons of pieces,4.32E+07,4.50E+07,4.58E+07,4.67E+07,4.76E+07,4.84E+07,4.97E+07
+agrTraditionalCropping_plants,Northwest,Millons of pieces,5.24E+05,5.45E+05,5.55E+05,5.66E+05,5.76E+05,5.87E+05,6.02E+05
+agrModernCropping_plants,Northwest,Mm3/UP,3.23E+07,3.36E+07,3.42E+07,3.49E+07,3.55E+07,3.62E+07,3.72E+07
+livestock_meat,Northwest,Mt/UP,3.78E+05,3.93E+05,4.01E+05,4.08E+05,4.16E+05,4.23E+05,4.35E+05
+livestock_milk,Northwest,Mt/UP,4.62E+04,4.81E+04,4.90E+04,4.99E+04,5.09E+04,5.18E+04,5.32E+04
+livestock_other,Northwest,Mt/UP,7.35E+04,7.64E+04,7.79E+04,7.93E+04,8.08E+04,8.23E+04,8.45E+04
+agrTraditionalCropping_fruits,North,Mt,6.63E+05,6.89E+05,7.02E+05,7.16E+05,7.29E+05,7.42E+05,7.62E+05
+agrModernCropping_fruits,North,Mt,4.09E+07,4.25E+07,4.33E+07,4.41E+07,4.49E+07,4.58E+07,4.70E+07
+agrTraditionalCropping_vegt,North,Mt,3.64E+06,3.79E+06,3.86E+06,3.93E+06,4.01E+06,4.08E+06,4.19E+06
+agrModernCropping_vegt,North,Mt,2.25E+08,2.34E+08,2.38E+08,2.43E+08,2.47E+08,2.51E+08,2.58E+08
+agrTraditionalCropping_seeds,North,Mt,8.02E+04,8.34E+04,8.50E+04,8.66E+04,8.82E+04,8.98E+04,9.22E+04
+agrModernCropping_seeds,North,Millons of pieces,4.94E+06,5.14E+06,5.24E+06,5.34E+06,5.44E+06,5.54E+06,5.69E+06
+agrTraditionalCropping_plants,North,Millons of pieces,1.32E+06,1.37E+06,1.40E+06,1.42E+06,1.45E+06,1.48E+06,1.52E+06
+agrModernCropping_plants,North,Mm3/UP,8.13E+07,8.45E+07,8.61E+07,8.78E+07,8.94E+07,9.10E+07,9.35E+07
+livestock_meat,North,Mt/UP,3.60E+05,3.74E+05,3.82E+05,3.89E+05,3.96E+05,4.03E+05,4.14E+05
+livestock_milk,North,Mt/UP,5.52E+05,5.74E+05,5.85E+05,5.96E+05,6.08E+05,6.19E+05,6.35E+05
+livestock_other,North,Mt/UP,2.49E+04,2.59E+04,2.64E+04,2.69E+04,2.74E+04,2.79E+04,2.86E+04
+agrTraditionalCropping_fruits,Northeast,Mt,1.95E+05,2.02E+05,2.06E+05,2.10E+05,2.14E+05,2.18E+05,2.24E+05
+agrModernCropping_fruits,Northeast,Mt,1.20E+07,1.25E+07,1.27E+07,1.30E+07,1.32E+07,1.34E+07,1.38E+07
+agrTraditionalCropping_vegt,Northeast,Mt,9.30E+04,9.67E+04,9.86E+04,1.00E+05,1.02E+05,1.04E+05,1.07E+05
+agrModernCropping_vegt,Northeast,Mt,5.74E+06,5.97E+06,6.08E+06,6.19E+06,6.31E+06,6.42E+06,6.60E+06
+agrTraditionalCropping_seeds,Northeast,Mt,5.27E+04,5.49E+04,5.59E+04,5.70E+04,5.80E+04,5.91E+04,6.07E+04
+agrModernCropping_seeds,Northeast,Millons of pieces,3.25E+06,3.38E+06,3.45E+06,3.51E+06,3.58E+06,3.64E+06,3.74E+06
+agrTraditionalCropping_plants,Northeast,Millons of pieces,1.01E+04,1.05E+04,1.07E+04,1.09E+04,1.11E+04,1.13E+04,1.16E+04
+agrModernCropping_plants,Northeast,Mm3/UP,1.29E+04,1.34E+04,1.37E+04,1.39E+04,1.42E+04,1.44E+04,1.48E+04
+livestock_meat,Northeast,Mt/UP,1.21E+05,1.26E+05,1.28E+05,1.30E+05,1.33E+05,1.35E+05,1.39E+05
+livestock_milk,Northeast,Mt/UP,3.41E+05,3.55E+05,3.62E+05,3.69E+05,3.75E+05,3.82E+05,3.92E+05
+livestock_other,Northeast,Mt/UP,4.79E+04,4.98E+04,5.07E+04,5.17E+04,5.26E+04,5.36E+04,5.50E+04
+agrTraditionalCropping_fruits,BajaCalif,Mt,6.32E+02,6.57E+02,6.70E+02,6.82E+02,6.95E+02,7.08E+02,7.26E+02
+agrModernCropping_fruits,BajaCalif,Mt,3.90E+04,4.05E+04,4.13E+04,4.21E+04,4.29E+04,4.36E+04,4.48E+04
+agrTraditionalCropping_vegt,BajaCalif,Mt,1.31E+02,1.36E+02,1.39E+02,1.42E+02,1.44E+02,1.47E+02,1.51E+02
+agrModernCropping_vegt,BajaCalif,Mt,8.08E+03,8.41E+03,8.57E+03,8.73E+03,8.89E+03,9.05E+03,9.29E+03
+agrTraditionalCropping_seeds,BajaCalif,Mt,8.93E+00,9.29E+00,9.47E+00,9.65E+00,9.83E+00,1.00E+01,1.03E+01
+agrModernCropping_seeds,BajaCalif,Millons of pieces,5.51E+02,5.73E+02,5.84E+02,5.95E+02,6.06E+02,6.17E+02,6.33E+02
+agrTraditionalCropping_plants,BajaCalif,Millons of pieces,7.16E+01,7.44E+01,7.59E+01,7.73E+01,7.87E+01,8.02E+01,8.23E+01
+agrModernCropping_plants,BajaCalif,Mm3/UP,9.18E+01,9.55E+01,9.73E+01,9.91E+01,1.01E+02,1.03E+02,1.06E+02
+livestock_meat,BajaCalif,Mt/UP,6.14E+04,6.38E+04,6.51E+04,6.63E+04,6.75E+04,6.88E+04,7.06E+04
+livestock_milk,BajaCalif,Mt/UP,4.55E+04,4.74E+04,4.83E+04,4.92E+04,5.01E+04,5.10E+04,5.24E+04
+livestock_other,BajaCalif,Mt/UP,1.01E+04,1.05E+04,1.07E+04,1.09E+04,1.11E+04,1.13E+04,1.16E+04
+agrTraditionalCropping_fruits,BajaCalifSouth,Mt,6.43E+02,6.69E+02,6.81E+02,6.94E+02,7.07E+02,7.20E+02,7.39E+02
+agrModernCropping_fruits,BajaCalifSouth,Mt,3.96E+04,4.12E+04,4.20E+04,4.28E+04,4.36E+04,4.44E+04,4.56E+04
+agrTraditionalCropping_vegt,BajaCalifSouth,Mt,6.69E+01,6.96E+01,7.09E+01,7.23E+01,7.36E+01,7.49E+01,7.69E+01
+agrModernCropping_vegt,BajaCalifSouth,Mt,4.13E+03,4.29E+03,4.37E+03,4.46E+03,4.54E+03,4.62E+03,4.75E+03
+agrTraditionalCropping_seeds,BajaCalifSouth,Mt,1.54E+01,1.60E+01,1.63E+01,1.67E+01,1.70E+01,1.73E+01,1.77E+01
+agrModernCropping_seeds,BajaCalifSouth,Millons of pieces,9.51E+02,9.89E+02,1.01E+03,1.03E+03,1.05E+03,1.06E+03,1.09E+03
+agrTraditionalCropping_plants,BajaCalifSouth,Millons of pieces,7.78E+00,8.09E+00,8.25E+00,8.40E+00,8.56E+00,8.71E+00,8.95E+00
+agrModernCropping_plants,BajaCalifSouth,Mm3/UP,9.98E+00,1.04E+01,1.06E+01,1.08E+01,1.10E+01,1.12E+01,1.15E+01
+livestock_meat,BajaCalifSouth,Mt/UP,4.40E+03,4.58E+03,4.66E+03,4.75E+03,4.84E+03,4.93E+03,5.06E+03
+livestock_milk,BajaCalifSouth,Mt/UP,8.46E+03,8.80E+03,8.96E+03,9.13E+03,9.30E+03,9.47E+03,9.73E+03
+livestock_other,BajaCalifSouth,Mt/UP,3.35E+02,3.48E+02,3.55E+02,3.62E+02,3.69E+02,3.75E+02,3.85E+02
+agrTraditionalCropping_fruits,Peninsular,Mt,6.17E+04,6.42E+04,6.54E+04,6.66E+04,6.79E+04,6.91E+04,7.09E+04
+agrModernCropping_fruits,Peninsular,Mt,3.80E+06,3.96E+06,4.03E+06,4.11E+06,4.18E+06,4.26E+06,4.38E+06
+agrTraditionalCropping_vegt,Peninsular,Mt,1.55E+04,1.61E+04,1.64E+04,1.67E+04,1.70E+04,1.73E+04,1.78E+04
+agrModernCropping_vegt,Peninsular,Mt,9.54E+05,9.92E+05,1.01E+06,1.03E+06,1.05E+06,1.07E+06,1.10E+06
+agrTraditionalCropping_seeds,Peninsular,Mt,5.03E+03,5.23E+03,5.33E+03,5.43E+03,5.53E+03,5.63E+03,5.78E+03
+agrModernCropping_seeds,Peninsular,Millons of pieces,3.10E+05,3.23E+05,3.29E+05,3.35E+05,3.41E+05,3.47E+05,3.57E+05
+agrTraditionalCropping_plants,Peninsular,Millons of pieces,1.22E+05,1.27E+05,1.30E+05,1.32E+05,1.35E+05,1.37E+05,1.41E+05
+agrModernCropping_plants,Peninsular,Mm3/UP,1.57E+05,1.63E+05,1.66E+05,1.70E+05,1.73E+05,1.76E+05,1.81E+05
+livestock_meat,Peninsular,Mt/UP,2.29E+05,2.39E+05,2.43E+05,2.48E+05,2.52E+05,2.57E+05,2.64E+05
+livestock_milk,Peninsular,Mt/UP,1.14E+04,1.18E+04,1.21E+04,1.23E+04,1.25E+04,1.27E+04,1.31E+04
+livestock_other,Peninsular,Mt/UP,3.92E+04,4.08E+04,4.16E+04,4.24E+04,4.32E+04,4.40E+04,4.51E+04
