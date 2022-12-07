@@ -1,5 +1,5 @@
 ProcessName,RegionName,Unit,2020,2025,2030,2035,2040,2045,2050
-procRefineryOilA,Central,PJ/y,41.11968,39.8860896,39.063696,37.8301056,36.5965152,34.951728,328.95744
+procRefineryOilA,Central,PJ/y,15008.6832,14558.4227,14258.24904,13807.98854,13357.72805,12757.38072,120069.4656
 procGTL,Central,PJ/y,0,0,0,0,0,0,0
 procCTLwCCS,Central,PJ/y,0,0,0,0,0,0,0
 procCTL,Central,PJ/y,0,0,0,0,0,0,0
@@ -18,13 +18,13 @@ procEthanolBiomass,Central,PJ/y,0,0,0,0,0,0,0
 procEthanolBiomasswCCS,Central,PJ/y,0,0,0,0,0,0,0
 procMethanolBiomass,Central,PJ/y,0,0,0,0,0,0,0
 procMethanolBiomasswCCS,Central,PJ/y,0,0,0,0,0,0,0
-procBiogasBiomass,Central,PJ/y,0.347400576,0.357822593,0.364770605,0.371718616,0.382140634,0.399510662,0.416880691
+procBiogasBiomass,Central,PJ/y,126.8012102,130.6052464,133.1412708,135.6772948,139.4813314,145.8213916,152.1614522
 procBiogasLandfill,Central,PJ/y,0,0,0,0,0,0,0
 procBiosyngasBiomass,Central,PJ/y,0,0,0,0,0,0,0
 procPyrolysisUpgradeBiomass,Central,PJ/y,0,0,0,0,0,0,0
 procBiodieselOil,Central,PJ/y,0,0,0,0,0,0,0
 procBiodieselAlgae,Central,PJ/y,0,0,0,0,0,0,0
-procRefineryOilA,Eastern,PJ/y,45.15822,70.12374,66.617553,64.5138408,62.4101286,59.605179,560.98992
+procRefineryOilA,Eastern,PJ/y,16482.7503,25595.1651,24315.40685,23547.55189,22779.69694,21755.89034,204761.3208
 procGTL,Eastern,PJ/y,0,0,0,0,0,0,0
 procCTLwCCS,Eastern,PJ/y,0,0,0,0,0,0,0
 procCTL,Eastern,PJ/y,0,0,0,0,0,0,0
@@ -39,7 +39,7 @@ procH2CoalwCCS,Eastern,PJ/y,0,0,0,0,0,0,0
 procH2Coal,Eastern,PJ/y,0,0,0,0,0,0,0
 procEthanolStarchCrops,Eastern,PJ/y,0,0,0,0,0,0,0
 procEthanolSugarCrops,Eastern,PJ/y,0,0,0,0,0,0,0
-procEthanolBiomass,Eastern,PJ/y,1.895967,1.95284601,1.99076535,2.02868469,2.0855637,2.18036205,2.2751604
+procEthanolBiomass,Eastern,PJ/y,692.027955,712.7887937,726.6293528,740.4699119,761.2307505,795.8321483,830.433546
 procEthanolBiomasswCCS,Eastern,PJ/y,0,0,0,0,0,0,0
 procMethanolBiomass,Eastern,PJ/y,0,0,0,0,0,0,0
 procMethanolBiomasswCCS,Eastern,PJ/y,0,0,0,0,0,0,0
@@ -47,7 +47,7 @@ procBiogasBiomass,Eastern,PJ/y,0,0,0,0,0,0,0
 procBiogasLandfill,Eastern,PJ/y,0,0,0,0,0,0,0
 procBiosyngasBiomass,Eastern,PJ/y,0,0,0,0,0,0,0
 procPyrolysisUpgradeBiomass,Eastern,PJ/y,0,0,0,0,0,0,0
-procBiodieselOil,Eastern,PJ/y,0.00875053,0.009013046,0.009188056,0.009363067,0.009625583,0.010063109,0.010500636
+procBiodieselOil,Eastern,PJ/y,3.19394345,3.28976179,3.35364044,3.417519455,3.513337795,3.673034785,3.83273214
 procBiodieselAlgae,Eastern,PJ/y,0,0,0,0,0,0,0
 procRefineryOilA,Western,PJ/y,0,0,0,0,0,0,0
 procGTL,Western,PJ/y,0,0,0,0,0,0,0
@@ -68,11 +68,11 @@ procEthanolBiomass,Western,PJ/y,0,0,0,0,0,0,0
 procEthanolBiomasswCCS,Western,PJ/y,0,0,0,0,0,0,0
 procMethanolBiomass,Western,PJ/y,0,0,0,0,0,0,0
 procMethanolBiomasswCCS,Western,PJ/y,0,0,0,0,0,0,0
-procBiogasBiomass,Western,PJ/y,0.300399322,0.309411301,0.315419288,0.321427274,0.330439254,0.34545922,0.360479186
+procBiogasBiomass,Western,PJ/y,109.6457525,112.9351249,115.1280401,117.320955,120.6103277,126.0926153,131.5749029
 procBiogasLandfill,Western,PJ/y,0,0,0,0,0,0,0
 procBiosyngasBiomass,Western,PJ/y,0,0,0,0,0,0,0
 procPyrolysisUpgradeBiomass,Western,PJ/y,0,0,0,0,0,0,0
-procBiodieselOil,Western,PJ/y,0.007875477,0.008111741,0.008269251,0.00842676,0.008663024,0.009056798,0.009450572
+procBiodieselOil,Western,PJ/y,2.874549105,2.960785465,3.018276615,3.0757674,3.16200376,3.30573127,3.44945878
 procBiodieselAlgae,Western,PJ/y,0,0,0,0,0,0,0
 procRefineryOilA,Northwest,PJ/y,0,0,0,0,0,0,0
 procGTL,Northwest,PJ/y,0,0,0,0,0,0,0
@@ -93,11 +93,11 @@ procEthanolBiomass,Northwest,PJ/y,0,0,0,0,0,0,0
 procEthanolBiomasswCCS,Northwest,PJ/y,0,0,0,0,0,0,0
 procMethanolBiomass,Northwest,PJ/y,0,0,0,0,0,0,0
 procMethanolBiomasswCCS,Northwest,PJ/y,0,0,0,0,0,0,0
-procBiogasBiomass,Northwest,PJ/y,1.293556262,1.33236295,1.358234076,1.384105201,1.422911889,1.487589702,1.552267515
+procBiogasBiomass,Northwest,PJ/y,472.1480356,486.3124768,495.7554377,505.1983984,519.3628395,542.9702412,566.577643
 procBiogasLandfill,Northwest,PJ/y,0,0,0,0,0,0,0
 procBiosyngasBiomass,Northwest,PJ/y,0,0,0,0,0,0,0
 procPyrolysisUpgradeBiomass,Northwest,PJ/y,0,0,0,0,0,0,0
-procBiodieselOil,Northwest,PJ/y,0.015750954,0.016223482,0.016538501,0.01685352,0.017326049,0.018113597,0.018901144
+procBiodieselOil,Northwest,PJ/y,5.74909821,5.92157093,6.036552865,6.1515348,6.324007885,6.611462905,6.89891756
 procBiodieselAlgae,Northwest,PJ/y,0,0,0,0,0,0,0
 procRefineryOilA,North,PJ/y,0,0,0,0,0,0,0
 procGTL,North,PJ/y,0,0,0,0,0,0,0
@@ -124,7 +124,7 @@ procBiosyngasBiomass,North,PJ/y,0,0,0,0,0,0,0
 procPyrolysisUpgradeBiomass,North,PJ/y,0,0,0,0,0,0,0
 procBiodieselOil,North,PJ/y,0,0,0,0,0,0,0
 procBiodieselAlgae,North,PJ/y,0,0,0,0,0,0,0
-procRefineryOilA,Northeast,PJ/y,34.14402,33.1196994,32.436819,31.4124984,30.3881778,29.022417,273.15216
+procRefineryOilA,Northeast,PJ/y,12462.5673,12088.69028,11839.43894,11465.56192,11091.6849,10593.18221,99700.5384
 procGTL,Northeast,PJ/y,0,0,0,0,0,0,0
 procCTLwCCS,Northeast,PJ/y,0,0,0,0,0,0,0
 procCTL,Northeast,PJ/y,0,0,0,0,0,0,0
@@ -143,7 +143,7 @@ procEthanolBiomass,Northeast,PJ/y,0,0,0,0,0,0,0
 procEthanolBiomasswCCS,Northeast,PJ/y,0,0,0,0,0,0,0
 procMethanolBiomass,Northeast,PJ/y,0,0,0,0,0,0,0
 procMethanolBiomasswCCS,Northeast,PJ/y,0,0,0,0,0,0,0
-procBiogasBiomass,Northeast,PJ/y,0.10217664,0.105241939,0.107285472,0.109329005,0.112394304,0.117503136,0.122611968
+procBiogasBiomass,Northeast,PJ/y,37.2944736,38.41330774,39.15919728,39.90508683,41.02392096,42.88864464,44.75336832
 procBiogasLandfill,Northeast,PJ/y,0,0,0,0,0,0,0
 procBiosyngasBiomass,Northeast,PJ/y,0,0,0,0,0,0,0
 procPyrolysisUpgradeBiomass,Northeast,PJ/y,0,0,0,0,0,0,0
